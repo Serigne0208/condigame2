@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodinGame", "CodinGame\CodinGame.csproj", "{E465ECD6-974C-4293-BC79-5CEFDF10CF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodinGameTest", "CodinGameTest\CodinGameTest.csproj", "{999CA9B7-0C66-46E8-A969-988A979F3BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E465ECD6-974C-4293-BC79-5CEFDF10CF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E465ECD6-974C-4293-BC79-5CEFDF10CF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E465ECD6-974C-4293-BC79-5CEFDF10CF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E465ECD6-974C-4293-BC79-5CEFDF10CF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999CA9B7-0C66-46E8-A969-988A979F3BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999CA9B7-0C66-46E8-A969-988A979F3BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999CA9B7-0C66-46E8-A969-988A979F3BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999CA9B7-0C66-46E8-A969-988A979F3BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2533998-4D3A-4B7E-9354-27A7630ED57D}
+	EndGlobalSection
+EndGlobal
